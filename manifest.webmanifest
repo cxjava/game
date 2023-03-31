@@ -1,0 +1,22 @@
+{
+  "short_name": "竞技中心",
+  "name": "竞技中心",
+  "description": "各种好玩的小游戏",
+  "icons": [
+    {
+      "src": "/game/web/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/game/web/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/game/",
+  "start_url": "/game/",
+  "background_color": "#2d2c2c",
+  "theme_color": "#2d2c2c",
+  "display": "standalone"
+}
